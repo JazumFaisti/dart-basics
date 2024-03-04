@@ -1,4 +1,4 @@
-void main(List<String> args) {
+void main() {
   Object object = "Flutter Engineering";
   print(object);
 }
