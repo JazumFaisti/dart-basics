@@ -3,5 +3,4 @@ void main() {
     'url': 'https://unisnu.ac.id/',
     'topic': 'Flutter Engineering',
   };
-  print(data);
 }
